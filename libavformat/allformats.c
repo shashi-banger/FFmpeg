@@ -367,6 +367,7 @@ extern AVInputFormat  ff_qcp_demuxer;
 extern AVInputFormat  ff_r3d_demuxer;
 extern AVInputFormat  ff_rawvideo_demuxer;
 extern AVOutputFormat ff_rawvideo_muxer;
+extern AVOutputFormat ff_rawvideo_with_header_muxer;
 extern AVInputFormat  ff_realtext_demuxer;
 extern AVInputFormat  ff_redspark_demuxer;
 extern AVInputFormat  ff_rl2_demuxer;
